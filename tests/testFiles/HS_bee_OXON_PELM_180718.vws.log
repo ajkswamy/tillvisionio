@@ -1,0 +1,919 @@
+Objects of HS_bee_OXON_PELM_180718.vws (D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.vws)
+===================================
+Images
+=======
+[Snapshot]
+Size:  80x 60
+Datatype: 4,Image
+Location: main memory
+UTC time: not available
+timing [ms]: (No calibration available)
+<start of info>
+
+<end of info>
+
+[syringe00_NONL]
+Size:  80x 60 1 band(s)  1 slice(s)  60 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12AA.pst
+UTC time: 1531901919.026
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754
+<start of info>
+07/18/18
+Start time of experiment : 10:18:39.026 AM
+Exposure time [ms]: 30
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+59 14754
+Protocol: 
+
+<end of info>
+
+[DeltaF syringe00_]
+Size:  80x 60 1 band(s)  1 slice(s)  60 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12AB.pst
+UTC time: not available
+timing [ms]: (No calibration available)
+<start of info>
+
+<end of info>
+
+[00_MOL]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12AC.pst
+UTC time: 1531902071.361
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:21:11.361 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[01_LINT-4]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12AD.pst
+UTC time: 1531902228.655
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:23:48.655 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[02_LINT-3]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12AE.pst
+UTC time: 1531902387.967
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:26:27.967 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[03_PELM-10]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12AF.pst
+UTC time: 1531902544.945
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:29:04.945 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[04_PELM-9]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B0.pst
+UTC time: 1531902702.907
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:31:42.907 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[05_PELM-8]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B1.pst
+UTC time: 1531902860.696
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:34:20.696 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[06_PELM-7]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B2.pst
+UTC time: 1531903019.179
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:36:59.179 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[07_PELM-6]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B3.pst
+UTC time: 1531903176.948
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:39:36.948 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[08_PELM-5]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B4.pst
+UTC time: 1531903333.774
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:42:13.774 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[09_PELM-4]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B5.pst
+UTC time: 1531903491.055
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:44:51.055 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[10_PELM-3]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B6.pst
+UTC time: 1531903649.021
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:47:29.021 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[11_PELM-2]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B7.pst
+UTC time: 1531903807.02
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:50:07.020 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[12_AIR]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B8.pst
+UTC time: 1531903964.809
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:52:44.809 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[13_MOL]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12B9.pst
+UTC time: 1531904123.941
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:55:23.941 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[14_LINT-4]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12BA.pst
+UTC time: 1531904280.673
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 10:58:00.673 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[Snapshot1]
+Size:  80x 60
+Datatype: 4,Image
+Location: main memory
+UTC time: not available
+timing [ms]: (No calibration available)
+<start of info>
+
+<end of info>
+
+[15_MOL]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12BB.pst
+UTC time: 1531904949.856
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:09:09.856 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[16_LINT-4]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12BC.pst
+UTC time: 1531905108.204
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:11:48.204 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[17_LINT-3]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12BD.pst
+UTC time: 1531905266.754
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:14:26.754 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[18_OXON-10]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12BE.pst
+UTC time: 1531905424.731
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:17:04.731 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[19_OXON-9]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12BF.pst
+UTC time: 1531905582.788
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:19:42.788 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[20_OXON-8]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C0.pst
+UTC time: 1531905739.708
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:22:19.708 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[21_OXON-7]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C1.pst
+UTC time: 1531905897.744
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:24:57.744 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[22_OXON-6]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C2.pst
+UTC time: 1531906054.931
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:27:34.931 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[23_OXON-5]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C3.pst
+UTC time: 1531906211.985
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:30:11.985 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[24_OXON-4]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C4.pst
+UTC time: 1531906368.61
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:32:48.610 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[25_OXON-3]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C5.pst
+UTC time: 1531906525.848
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:35:25.848 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[26_OXON-2]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C6.pst
+UTC time: 1531906684.694
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:38:04.694 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[27_AIR]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C7.pst
+UTC time: 1531906843.06
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:40:43.060 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[28_MOL]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C8.pst
+UTC time: 1531907001.821
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:43:21.821 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+[29_LINT-4]
+Size:  80x 60 1 band(s)  1 slice(s)  100 frame(s)
+Datatype: 4,Image
+Location: D:\Hanna\Bee\Hannah\Summer bees 2018\HS_bee_OXON_PELM_180718.pst\dbb12C9.pst
+UTC time: 1531907160.158
+timing [ms]: 4 254 504 754 1004 1254 1504 1754 2004 2254 2504 2754 3004 3254 3504 3754 4004 4254 4504 4754 5004 5254 5504 5754 6004 6254 6504 6754 7004 7254 7504 7754 8004 8254 8504 8754 9004 9254 9504 9754 10004 10254 10504 10754 11004 11254 11504 11754 12004 12254 12504 12754 13004 13254 13504 13754 14004 14254 14504 14754 15004 15254 15504 15754 16004 16254 16504 16754 17004 17254 17504 17754 18004 18254 18504 18754 19004 19254 19504 19754 20004 20254 20504 20754 21004 21254 21504 21754 22004 22254 22504 22754 23004 23254 23504 23754 24004 24254 24504 24754
+<start of info>
+07/18/18
+Start time of experiment : 11:46:00.158 AM
+Exposure time [ms]: 15
+Monochromator wavelength [nm]: 475
+Monochromator wavelength increment[nm]: 0
+Image type : Fluorescence
+Horizontal binning factor: 8
+Vertical binning factor: 8
+Chip window x-position: 0
+Chip window y-position: 0
+Chip window width: 80
+Chip window height: 60
+;To access complete timecode information use:
+;View/Configure.../Timecode Overlay...
+;OR: File/Save as.../Time Code Information (*.tci)
+0 4
+99 24754
+Protocol: 
+
+<end of info>
+
+
+Drivers
+=======
+IMPULS Big Image driver (Device)
+TILL Ratio Imaging driver (Device)
+Imaging Hardware (Device)
+
+XObjects
+=======
+ScreenSingleLoop (TILL Protocol)
+Screen_testodor (TILL Protocol)
+Test_syringe (TILL Protocol)
+Test_GC_overlap-1 (TILL Protocol)
+Test_GC_overlap-2 (TILL Protocol)
+Test_GC_overlap-3 (TILL Protocol)
+Screen_syringe (TILL Protocol)
+
