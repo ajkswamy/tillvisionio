@@ -1,6 +1,6 @@
 Value Required Label (.+)
-Value Required PixelSizeX (\d+)
-Value Required PixelSizeY (\d+)
+Value Required nPixelsX (\d+)
+Value Required nPixelsY (\d+)
 Value Bands (\d+)
 Value Slices (\d+)
 Value Frames (\d+)
@@ -25,8 +25,8 @@ Start
   ^\[${Label}\] -> DefaultMetadata
 
 DefaultMetadata
-  ^Size\s*:\s*${PixelSizeX}\s*x\s*${PixelSizeY}\s*${Bands}\s*band\(s\)\s*${Slices}\s*slice\(s\)\s*${Frames}\s*frame\(s\)
-  ^Size\s*:\s*${PixelSizeX}\s*x\s*${PixelSizeY}
+  ^Size\s*:\s*${nPixelsX}\s*x\s*${nPixelsY}\s*${Bands}\s*band\(s\)\s*${Slices}\s*slice\(s\)\s*${Frames}\s*frame\(s\)
+  ^Size\s*:\s*${nPixelsX}\s*x\s*${nPixelsY}
   ^Datatype\s*:\s*${Datatype}
   ^Location:\s*${Location}
   ^UTC\stime:\s*${UTCTime}

@@ -1,6 +1,6 @@
 from tillvisionio.vws import VWSDataManager
 import pandas as pd
-
+import pathlib as pl
 
 def VWS_read_test():
     """
@@ -42,4 +42,22 @@ def vws_segregation_test():
 
     assert measurements_only_df.equals(expected_measurements_only_df)
     assert snapshots_only_df.equals(expected_snapshots_only_df)
+
+
+def load_image_data_test():
+    """
+    Testing the function get_image_data of tillvisionio.vws.VWSDataManager
+    """
+
+    test_file = "tests/testFiles/HS_bee_OXON_PELM_180718.vws.log"
+
+    labels = ["syringe00_NONL", "00_MOL", "01_LINT-4"]
+
+    vws = VWSDataManager(test_file)
+
+    for label in labels:
+
+        img_data = vws.get_image_data(label)
+
+
 

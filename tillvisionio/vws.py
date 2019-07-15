@@ -2,6 +2,7 @@ import textfsm
 import pkg_resources
 import pandas as pd
 import numpy as np
+import pathlib as pl
 
 
 def get_vws_log_template_filename():
@@ -51,6 +52,7 @@ class VWSDataManager(object):
     def __init__(self, vws_log_file):
 
         self.vws_log_file = vws_log_file
+        self.vws_log_file_path = pl.Path(vws_log_file)
 
         with open(self.vws_log_file) as vws_fle:
             vws_log_text = vws_fle.read()
@@ -63,22 +65,43 @@ class VWSDataManager(object):
             self.data_df = self.data_df.apply(pd.to_numeric, errors='ignore')
 
     def get_measurement_metadata(self):
+        """
+        Get metadata of those entries having timing information
+        :return: pandas.DataFrame
+        """
 
         return self.data_df.loc[lambda s: ~is_snapshot(s), :]
 
     def get_snapshot_metadata(self):
+        """
+        Get metadata of those entries having timing information
+        :return: pandas.DataFrame
+        """
 
         return self.data_df.loc[lambda s: is_snapshot(s), :]
 
     def get_image_data(self, label):
+        """
+        Get the image data contained in the pst file corresponding to the entry with label <label>
+        :param label: string
+        :return: numpy.ndarray converted to uint16
+        """
 
         subset_matching_label = self.data_df.loc[lambda s: s["Label"] == label, :]
 
         assert subset_matching_label.shape[0] == 1, f"More than one entries found in {self.vws_log_file}" \
                                                     f"with label={label}"
 
-        subset_matching_label
+        dbb_file_name_as_recorded = subset_matching_label["Location"].iloc[0]
 
+        dbb_file_path_as_recorded = pl.PureWindowsPath(dbb_file_name_as_recorded)
+
+        dbb_file_path_now = self.vws_log_file_path.parent / dbb_file_path_as_recorded.parts[-2] / \
+                            dbb_file_path_as_recorded.parts[-1]
+
+        image_data = load_pst(str(dbb_file_path_now))
+
+        return image_data
 
 
 
