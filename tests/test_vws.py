@@ -2,6 +2,7 @@ from tillvisionio.vws import VWSDataManager
 import pandas as pd
 import pathlib as pl
 
+
 def VWS_read_test():
     """
     Testing the initialization of a tillvisionio.vws.VWSDataManager with a vws.log file
@@ -10,8 +11,9 @@ def VWS_read_test():
     expected_xl = "tests/testFiles/HS_bee_OXON_PELM_180718.vws.xls"
     vws_data = VWSDataManager(test_file)
     expected_df = pd.read_excel(expected_xl)
+    read_df = vws_data.get_all_metadata()
 
-    temp1 = vws_data.data_df.apply(pd.to_numeric, errors="ignore", downcast="float")
+    temp1 = read_df.apply(pd.to_numeric, errors="ignore", downcast="float")
     temp2 = expected_df.apply(pd.to_numeric, errors="ignore", downcast="float")
     assert temp1.equals(temp2)
 

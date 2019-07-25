@@ -43,7 +43,7 @@ def load_pst(filename):
     # was swapping x, y axes; commented out to retain original order
     # data  = data.swapaxes(0,1)
 
-    data  = data.astype('uint16')
+    data = data.astype('uint16')
     return data
 
 
@@ -79,6 +79,14 @@ class VWSDataManager(object):
         """
 
         return self.data_df.loc[lambda s: is_snapshot(s), :]
+
+    def get_all_metadata(self):
+        """
+        Get all metadata entries
+        :return: pandas.DataFrame
+        """
+
+        return self.data_df
 
     def get_image_data(self, label):
         """
