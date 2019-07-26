@@ -83,7 +83,7 @@ class VWSDataManager(object):
             self.data_df = pd.DataFrame(columns=textfsm_template.header, data=data)
             self.data_df.replace("", np.NaN, inplace=True)
             self.data_df = self.data_df.apply(pd.to_numeric, errors='ignore')
-            self.data_df.reset_index(drop=False)
+            self.data_df.reset_index(drop=False, inplace=True)
 
     def get_all_metadata(self, filter=None, additional_cols_func=None):
         """
@@ -108,7 +108,7 @@ class VWSDataManager(object):
         for ind, row in data_df2return.iterrows():
             if additional_cols_func is not None:
                 additional_cols = additional_cols_func(row)
-                for k, v in additional_cols:
+                for k, v in additional_cols.items():
                     data_df2return.loc[ind, k] = v
 
         return data_df2return
