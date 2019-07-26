@@ -10,6 +10,7 @@ ipython = "*"
 
 [packages]
 tillvisionio = {editable = true,path = "."}
+scipy = "*"
 
 [requires]
 python_version = "3.7"
