@@ -82,7 +82,7 @@ class VWSDataManager(object):
             data = textfsm_template.ParseText(vws_log_text)
             self.data_df = pd.DataFrame(columns=textfsm_template.header, data=data)
             self.data_df.replace("", np.NaN, inplace=True)
-            self.data_df = self.data_df.apply(pd.to_numeric, errors='ignore')
+            self.data_df = self.data_df.applymap(lambda x: pd.to_numeric(x, errors='ignore'))
             self.data_df.reset_index(drop=False, inplace=True)
 
     def get_all_metadata(self, filter=None, additional_cols_func=None):
@@ -136,6 +136,18 @@ class VWSDataManager(object):
 
         return image_data
 
+    def get_frame_posix_timestamps(self, frame_number, df_to_use=None):
+
+        if df_to_use is None:
+            df_to_use = self.data_df
+
+        frame_timestamps_relative_to_start_ms = \
+            df_to_use["Timing_ms"].apply(lambda s: float(s.split(" ")[frame_number])).values
+
+        frame_timestamps = df_to_use["UTCTime"].values + frame_timestamps_relative_to_start_ms * 0.001
+
+        return frame_timestamps
+
     def get_metadata_two_wavelengths(self, wavelengths, filter=None, additional_cols_func=None):
         """
         Assumes that measurements consist of simultaneous imaging with the two wavelengths specied. Finds all
@@ -161,23 +173,13 @@ class VWSDataManager(object):
         wavelength1_df = all_df.loc[wavelength1_mask, :]
         wavelength2_df = all_df.loc[wavelength2_mask, :]
 
-        wavelength1_timings = wavelength1_df["Timing_ms"].values
-        wavelength2_timings = wavelength2_df["Timing_ms"].values
+        wavelength1_first_timestamps = self.get_frame_posix_timestamps(1, df_to_use=wavelength1_df)
+        wavelength1_second_timestamps = self.get_frame_posix_timestamps(2, df_to_use=wavelength1_df)
+        wavelength1_last_timestamps = self.get_frame_posix_timestamps(-1, df_to_use=wavelength1_df)
 
-        def get_first_second_last(s):
-
-            parts = s.split(" ")
-            return float(parts[0]), float(parts[1]), float(parts[-1])
-
-        wavelength1_first_second_last_timestamps = [get_first_second_last(x) for x in wavelength1_timings]
-        wavelength1_first_timestamps, \
-        wavelength1_second_timestamps, \
-        wavelength1_last_timestamps = zip(*wavelength1_first_second_last_timestamps)
-
-        wavelength2_first_second_last_timestamps = [get_first_second_last(x) for x in wavelength2_timings]
-        wavelength2_first_timestamps, \
-        wavelength2_second_timestamps, \
-        wavelength2_last_timestamps = zip(*wavelength2_first_second_last_timestamps)
+        wavelength2_first_timestamps = self.get_frame_posix_timestamps(1, df_to_use=wavelength2_df)
+        wavelength2_second_timestamps = self.get_frame_posix_timestamps(2, df_to_use=wavelength2_df)
+        wavelength2_last_timestamps = self.get_frame_posix_timestamps(-1, df_to_use=wavelength2_df)
 
         wavelength1_dts = np.array(wavelength1_second_timestamps) - np.array(wavelength1_first_timestamps)
         wavelength2_dts = np.array(wavelength2_second_timestamps) - np.array(wavelength2_first_timestamps)
